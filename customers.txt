@@ -1,0 +1,21 @@
+
+121212
+Customer 1
+12 12 2000
+Israel
+Tel Aviv
+Hasharon
+20
+13 6 2024
+234567
+1
+987654321
+Customer 2
+15 7 1978
+Israel
+Lod
+Bnei Efraim
+190
+19 6 2020
+777777
+2
